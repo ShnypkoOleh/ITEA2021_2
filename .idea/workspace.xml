@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f323c77-c695-4d18-9aeb-47035a06f382" name="Default Changelist" comment="lesson3&#10;test">
+      <change afterPath="$PROJECT_DIR$/ITEA22072021/lesson3/less3_1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ITEA22072021/lesson3/tasc1.py" beforeDir="false" afterPath="$PROJECT_DIR$/ITEA22072021/lesson3/tasc1.py" afterDir="false" />
     </list>
@@ -39,7 +40,7 @@
       <recent name="$PROJECT_DIR$/ITEA22072021/SRC" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.tasc1 (1)">
+  <component name="RunManager" selected="Python.less3_1">
     <configuration name="Home1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ITEA2021" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -84,6 +85,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="less3_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ITEA2021" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ITEA22072021/lesson3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ITEA22072021/lesson3/less3_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="ITEA2021" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -98,28 +121,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ITEA22072021/SRC/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="power" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="ITEA2021" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ITEA22072021/lesson2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ITEA22072021/lesson2/power.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -174,11 +175,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.less3_1" />
         <item itemvalue="Python.tasc1 (1)" />
         <item itemvalue="Python.tasc1" />
         <item itemvalue="Python.decoder" />
         <item itemvalue="Python.Home1" />
-        <item itemvalue="Python.power" />
       </list>
     </recent_temporary>
   </component>
@@ -190,7 +191,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1626970868226</updated>
-      <workItem from="1626970877106" duration="29965000" />
+      <workItem from="1626970877106" duration="37808000" />
     </task>
     <task id="LOCAL-00001" summary="22">
       <created>1627393867240</created>
@@ -241,7 +242,14 @@
       <option name="project" value="LOCAL" />
       <updated>1627490342556</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="lesson3&#10;test">
+      <created>1627491599079</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1627491599079</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -266,10 +274,11 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/ITEA2021$Home1.coverage" NAME="Home1 Coverage Results" MODIFIED="1627321418934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ITEA22072021/Home_work_1" />
+    <SUITE FILE_PATH="coverage/ITEA2021$less3_1.coverage" NAME="less3_1 Coverage Results" MODIFIED="1627499333888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ITEA22072021/lesson3" />
     <SUITE FILE_PATH="coverage/ITEA2021$decoder.coverage" NAME="decoder Coverage Results" MODIFIED="1627385249049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ITEA22072021/lesson2" />
     <SUITE FILE_PATH="coverage/ITEA2021$main.coverage" NAME="main Coverage Results" MODIFIED="1626975954346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ITEA2021$lesson1.coverage" NAME="lesson1 Coverage Results" MODIFIED="1626978646898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ITEA22072021" />
-    <SUITE FILE_PATH="coverage/ITEA2021$tasc1__1_.coverage" NAME="tasc1 (1) Coverage Results" MODIFIED="1627490078457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ITEA22072021/lesson3" />
+    <SUITE FILE_PATH="coverage/ITEA2021$tasc1__1_.coverage" NAME="tasc1 (1) Coverage Results" MODIFIED="1627497637857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ITEA22072021/lesson3" />
     <SUITE FILE_PATH="coverage/ITEA2021$power.coverage" NAME="power Coverage Results" MODIFIED="1627321391492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ITEA22072021/lesson2" />
     <SUITE FILE_PATH="coverage/ITEA2021$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1626970922940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ITEA22072021" />
     <SUITE FILE_PATH="coverage/ITEA2021$factorial.coverage" NAME="factorial Coverage Results" MODIFIED="1626979156973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ITEA22072021/SRC" />
