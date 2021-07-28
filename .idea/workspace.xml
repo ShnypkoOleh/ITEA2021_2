@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0f323c77-c695-4d18-9aeb-47035a06f382" name="Default Changelist" comment="lesson3">
+    <list default="true" id="0f323c77-c695-4d18-9aeb-47035a06f382" name="Default Changelist" comment="lesson3&#10;test">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ITEA22072021/lesson3/tasc1.py" beforeDir="false" afterPath="$PROJECT_DIR$/ITEA22072021/lesson3/tasc1.py" afterDir="false" />
     </list>
@@ -190,7 +190,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1626970868226</updated>
-      <workItem from="1626970877106" duration="28677000" />
+      <workItem from="1626970877106" duration="29965000" />
     </task>
     <task id="LOCAL-00001" summary="22">
       <created>1627393867240</created>
@@ -227,7 +227,21 @@
       <option name="project" value="LOCAL" />
       <updated>1627490038675</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="lesson3&#10;test">
+      <created>1627490255908</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1627490255908</updated>
+    </task>
+    <task id="LOCAL-00007" summary="lesson3&#10;test">
+      <created>1627490342556</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1627490342556</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -236,7 +250,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="22" />
     <MESSAGE value="lesson3" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson3" />
+    <MESSAGE value="lesson3&#10;test" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson3&#10;test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
