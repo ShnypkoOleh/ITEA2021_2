@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0f323c77-c695-4d18-9aeb-47035a06f382" name="Default Changelist" comment="lesson3&#10;test" />
+    <list default="true" id="0f323c77-c695-4d18-9aeb-47035a06f382" name="Default Changelist" comment="lesson3&#10;test">
+      <change afterPath="$PROJECT_DIR$/ITEA22072021/lesson4/tasc1.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -187,7 +189,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1626970868226</updated>
-      <workItem from="1626970877106" duration="38119000" />
+      <workItem from="1626970877106" duration="38750000" />
     </task>
     <task id="LOCAL-00001" summary="22">
       <created>1627393867240</created>
@@ -252,7 +254,14 @@
       <option name="project" value="LOCAL" />
       <updated>1627499637165</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="lesson3&#10;test">
+      <created>1627662369804</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1627662369804</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
